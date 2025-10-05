@@ -1,0 +1,2 @@
+# hello-funky-script
+hahahahaha
